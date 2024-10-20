@@ -81,8 +81,8 @@ Two models are used for vectorization to compare their performance:
 
 ### Results
 
-- **DistilBERT** offers faster performance but with less precise retrieval of relevant passages.
-- **SentenceTransformer** provides more accurate answers, especially for longer and more complex queries, due to its stronger sentence embedding capability.
+- **DistilBERT** offers faster performance but with less precise retrieval of relevant passages  (Refer task.ipynb).
+- **SentenceTransformer** provides more accurate answers, especially for longer and more complex queries, due to its stronger sentence embedding capability (Refer task_method2.ipynb).
 
 ---
 
