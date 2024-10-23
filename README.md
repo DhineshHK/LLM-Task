@@ -88,5 +88,5 @@ Two models are used for vectorization to compare their performance:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DhineshHK/engAIge-GmbH.git
-   cd engAIge-RAG-pipeline
+   git clone https://github.com/DhineshHK/LLM-Task.git
+   
