@@ -1,5 +1,3 @@
-# engAIge-GmbH
-
 ## Task: RAG Pipeline for PDF Text Extraction and Query Answering
 
 This repository contains the solution to the task of creating a **Retrieval-Augmented Generation (RAG) pipeline** for extracting text from PDFs and answering queries using relevant passages from the documents. The implementation is done using two different transformer models for comparison.
